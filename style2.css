@@ -1,0 +1,24 @@
+
+.element{
+    border: 1px #CCCCCC solid;
+    width: 210px;
+    display: inline-block;
+    margin: 10px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+.image{
+    display: flex;           /* Bố cục Flexbox cho phần tử con */
+    /* justify-content: center; /* Căn giữa các phần tử con theo trục ngang */
+    /* align-items: center;     /* Căn giữa các phần tử con theo trục dọc */
+    width: 100px;            /*Chiều rộng của phần tử  */
+    flex-direction: row; 
+   
+    align-items: center;
+    margin: auto;  
+}
+.text{
+    margin: 0px;
+    text-align: center;
+}
