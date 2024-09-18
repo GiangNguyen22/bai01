@@ -47,8 +47,8 @@ h4{
     padding-bottom: 8px;
 }
 .send{
-    display: inline-block;
-    margin-left: 30px;
+   
+    
     padding : 8px 12px 8px 12px;
     background-color: #FF3399;
     border-radius: 15px;
@@ -56,15 +56,15 @@ h4{
 }
 
 .input{
-    display: inline-block;
+    
     border-radius: 5px;
     padding:5px;
-    width:150px;
     color: rgb(54 54 54);
     border: 1px rgb(220 220 220) solid;
     border-radius: 10px;
 }
 .footer{
-    display: inline-block;
+   
     margin-top: 15px;
+    padding: 8px 12px 8px 12px;
 }
